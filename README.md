@@ -24,3 +24,19 @@ A fun and interactive Python script utilizing **gTTS** (Google Text-to-Speech) a
 1. **Run the script:** 
    ```bash
    python text_to_speech_gui.py
+2. Enter text: Type your desired text into the GUI text box.
+3. Convert it! Click on the Convert to Speech button.
+4. The script saves the speech as `audio.mp3` and plays it automatically. 🗣️
+5. Done? Simply hit Quit to close the window. 🖐️
+
+## 🛠️ Example Workflow
+1. Enter the text:
+   ```vim
+   "Hello! This is a test message."
+2. Hit the Convert to Speech button and listen as the text comes alive!
+   - 🎧 The generated audio file, `audio.mp3`, will play right away.
+
+## 📌 Important Notes
+Make sure you have speakers or headphones connected to hear the audio output properly. 🔊
+The size, color, and appearance of the GUI widgets (like the Text Box and Buttons) can be customized easily in the script.
+Feel free to personalize the Text-to-Speech Converter to better suit your needs.
